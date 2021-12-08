@@ -12,5 +12,5 @@ https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 2021 explanation of division of zip codes per county  
 https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
-data assignment. do is my do file I put all of my code into. 
+real data assignment. do is my do file I put all of my code into. 
 Data assignment 3.docx is the file I have my write up. 
